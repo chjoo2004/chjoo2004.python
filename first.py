@@ -1,4 +1,5 @@
-chicken = "네네 BHC BBQ 처갓집 교촌 굽네 땅땅 지코바 "
-print(chicken)
+chicken = "네네 굽네 BHC BBQ 처갓집 땅땅 교촌 지코바"
 brand = chicken.split()
-print(brand)
+print(chicken)
+for i in brand:
+  print(i)
